@@ -3,7 +3,7 @@
 ## 作業說明
 
 1. 請將本專案 Fork 到你自己的帳號底下
-2. 打開 order.md 並修改內容和點餐 <font color="#1936C9">藍色</font>
+2. 打開 order.md 並修改內容和點餐
 3. 點選 "Commit changes..." 同時發 PR 給我
 
 > [!WARNING]
