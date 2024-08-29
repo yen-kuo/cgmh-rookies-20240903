@@ -1,0 +1,101 @@
+{
+  "莊園好茶": {
+    "description": "CLASSICS",
+    "items": [
+      {"name": "翡翠高地莊園紅茶", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "花開茶綠茶", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "四季春茶王", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "英式蜜桃風味茶", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "皇家伯爵茶", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "英式玫瑰特調茶", "price": 40, "temperature": "冷熱皆可"}
+    ]
+  },
+  "招牌水果茶": {
+    "description": "FRUITS TEA",
+    "items": [
+      {"name": "英式水果茶", "price": 65, "temperature": "僅冷飲"},
+      {"name": "蜜桃風味水果茶", "price": 65, "temperature": "僅冷飲"},
+      {"name": "皇家伯爵水果茶", "price": 65, "temperature": "僅冷飲"},
+      {"name": "英式玫瑰水果茶", "price": 65, "temperature": "僅冷飲"}
+    ]
+  },
+  "英式鮮奶茶": {
+    "description": "FRESH MILK TEAS",
+    "items": [
+      {"name": "英式玫瑰拿鐵", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "蜜桃風味拿鐵", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "翡翠莊園紅茶拿鐵", "price": 60, "temperature": "冷熱皆可"},
+      {"name": "金枕烏瓦拿鐵", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "花開茶綠茶拿鐵", "price": 60, "temperature": "冷熱皆可"},
+      {"name": "皇家伯爵拿鐵", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "金枕烏瓦珍珠拿鐵", "price": 75, "temperature": "冷熱皆可"},
+      {"name": "英式鮮奶可可拿鐵", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "巧克力焙煎拿鐵", "price": 70, "temperature": "冷熱皆可"}
+    ]
+  },
+  "經典乳茶": {
+    "description": "NEING GIANG",
+    "items": [
+      {"name": "經典奶茶", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "經典乳茶", "price": 75, "temperature": "冷熱皆可"}
+    ]
+  },
+  "英式海鹽奶蓋": {
+    "description": "ROSE CHEESE MILK FOAM",
+    "items": [
+      {"name": "英式奶蓋伯爵茶", "price": 60, "temperature": "冷熱皆可"},
+      {"name": "英式奶蓋蜜桃風味茶", "price": 60, "temperature": "冷熱皆可"},
+      {"name": "英式奶蓋四季春", "price": 60, "temperature": "冷熱皆可"}
+    ]
+  },
+  "精選奶茶": {
+    "description": "MILK TEAS",
+    "items": [
+      {"name": "花開茶綠奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "翡翠高地珍珠奶茶", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "英式玫瑰奶茶", "price": 60, "temperature": "冷熱皆可"},
+      {"name": "翡翠高地莊園奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "金枕烏瓦厚奶茶", "price": 65, "temperature": "冷熱皆可"},
+      {"name": "金枕烏瓦厚奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "蜜桃風味奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "皇家伯爵奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "巧克力焙煎奶茶", "price": 60, "temperature": "冷熱皆可"}
+    ]
+  },
+  "天然草本養生茶": {
+    "description": "HERBAL",
+    "items": [
+      {"name": "薑棗青春六味養生茶", "price": 65, "temperature": "僅熱飲"},
+      {"name": "靜心養神好夢茶", "price": 65, "temperature": "僅熱飲"},
+      {"name": "紅韻珍珠花韻蜂蜜茶", "price": 70, "temperature": "僅熱飲"}
+    ]
+  },
+  "輕培殼麥": {
+    "description": "BARLEY TEA",
+    "items": [
+      {"name": "輕培殼麥茶", "price": 40, "temperature": "冷熱皆可"},
+      {"name": "輕培殼麥奶茶", "price": 55, "temperature": "冷熱皆可"},
+      {"name": "輕培殼麥冬瓜", "price": 65, "temperature": "僅冷飲"},
+      {"name": "朵朵奶蓋殼麥茶", "price": 65, "temperature": "冷熱皆可"}
+    ]
+  },
+  "特調": {
+    "description": "SPECIALS",
+    "items": [
+      {"name": "玫瑰水", "price": 35, "temperature": "冷熱皆可"},
+      {"name": "檸夏冰茶", "price": 55, "temperature": "僅冷飲"},
+      {"name": "蒲葵檸檬", "price": 55, "temperature": "僅冷飲"},
+      {"name": "蜂蜜花間茉綠茶", "price": 50, "temperature": "冷熱皆可"},
+      {"name": "蜂蜜四季春茶", "price": 55, "temperature": "冷熱皆可"}
+    ]
+  },
+  "加料選項": [
+    {"name": "珍珠", "price": 10},
+    {"name": "蜂蜜", "price": 10},
+    {"name": "蜜香珍珠", "price": 15},
+    {"name": "雪鑽", "price": 15},
+    {"name": "雙料", "price": 15}
+  ],
+  "冰量選項": ["正常", "少冰", "微冰", "去冰", "熱飲"],
+  "甜度選項": ["正常", "半糖", "微糖", "無糖", "無糖"]
+}
